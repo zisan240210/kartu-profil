@@ -11,7 +11,7 @@ export default function Home() {
       {/* Kartu Profil */}
       <KartuProfil nama="Agha" kelas="XII RPL 1" hobi="gooning" />
       <KartuProfil nama="Rakha" kelas="XII RPL 1" hobi="Gaming" />
-      <KartuProfil nama="zidan" kelas="XII RPL 1" hobi="Pacuan Waifu" />
+      <KartuProfil nama="Zidan" kelas="XII RPL 1" hobi="Pacuan Waifu" />
 
     </main>
   );
